@@ -1,0 +1,33 @@
+.container {
+    height: 520px;
+    width: 300px;
+    background-color: #aaa5a5;
+    margin: auto;
+}
+#result {
+    height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #aaa5a5;
+    font-size: 20pt;
+    /* border: none; */
+}
+.buttons {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    
+}
+.button-row-1 {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    height: 70px;
+    width: 70px;
+    font-size: 15pt;
+    margin: 3px;
+}
